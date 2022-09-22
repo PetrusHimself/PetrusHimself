@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm  Petrus
 #### Web Design and Development
-I'm Petrus from South Africa, I am currently enrolled in the 12-months ALX Africa Software Engineering Programme which started 15 August 2022. I love Graphic Design and Web Design. I have a key interest in Front End Development. I also enjoy wireframing, UI/UX Design and design in general.
+I'm Petrus Tlhomedi from South Africa, I am currently enrolled in the 12-months ALX Africa Software Engineering Programme which started 15 August 2022. I love Graphic Design and Web Design. I have a key interest in Front End Development. I also enjoy wireframing, UI/UX Design and design in general.
 
-Skills: FIGMA/ HTML/ CSS/ C 
+Skills: REACT / JS / HTML / CSS/ FIGMA
 
-- 🔭 I’m currently working on getting qualified as a Full Stack Software Engineer 
 - 🌱 I’m currently learning Full Stack Software Engineering ALX Africa and Holberton Inc. 
 
 
@@ -13,10 +12,6 @@ Skills: FIGMA/ HTML/ CSS/ C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrusHimself)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrusHimself&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PetrusHimself)  
-
-![GitHub metrics](https://metrics.lecoq.io/PetrusHimself)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PetrusHimself)  
 
