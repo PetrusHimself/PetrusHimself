@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm  Petrus
 #### Web Design and Development
-I'm Petrus Tlhomedi from South Africa, I am currently enrolled in the 12-months ALX Africa Software Engineering Programme which started 15 August 2022. I love Graphic Design and Web Design. I have a key interest in Front End Development. I also enjoy wireframing, UI/UX Design and design in general.
+I'm Petrus Tlhomedi from South Africa, I am currently enrolled in the 12-months ALX Africa Software Engineering Programme which started 15 August 2022. I love Web Design. I have a key interest in Front End Development. I also enjoy wireframing, UI/UX Design and design in general.
 
 Skills: REACT / JS / HTML / CSS/ FIGMA
 
