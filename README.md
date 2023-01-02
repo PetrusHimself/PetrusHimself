@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Petrus Tlhomedi</h1>
-<h3 align="left">I'm from South Africa and I love Web Design!</h3>
+<h3 align="left">I'm from South Africa and I love Software Engineering!</h3>
 
 <p align="left"> <a href="https://twitter.com/petrushimself" target="blank"><img src="https://img.shields.io/twitter/follow/petrushimself?logo=twitter&style=for-the-badge" alt="petrushimself" /></a> </p>
 
-- 🌱 I’m currently learning **C Programming, Systems DevOps and Linux Command Line**
+- 🌱 I’m currently learning **C Programming, Systems DevOps, Python Programming and Linux Command Line**
 
-- 💬 Ask me about **FIGMA, UI/UX Design, Web Design**
+- 💬 Ask me about **System Engineering, C Programming and Python Programming**
 
 - 📫 How to reach me **tlhomedipetrus@gmail.com**
 
