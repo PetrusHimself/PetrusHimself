@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/petrushimself" target="blank"><img src="https://img.shields.io/twitter/follow/petrushimself?logo=twitter&style=for-the-badge" alt="petrushimself" /></a> </p>
 
-- 🌱 **C Programming, Systems DevOps, Python Programming and Linux Command Line**
+- 🌱 **C Programming, Systems DevOps, Python Programming and JavaScript**
 
-- 💬 Ask me about **System Engineering, C Programming and Python Programming**
+- 💬 Ask me about **Python and JavaScript**
 
 - 📫 How to reach me **tlhomedipetrus@gmail.com**
 
