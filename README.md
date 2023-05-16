@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petrushimself&label=Profile%20views&color=0e75b6&style=flat" alt="petrushimself" /> </p>
 
-- 🌱 I’m currently learning **React.js,Next.js and Node.js**
+- 🌱 I’m currently studying **ALX FULL-STACK SOFTWARE ENGINEERING**
 
 - 📫 How to reach me **tlhomedipetrus@gmail.com**
 
