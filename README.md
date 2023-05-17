@@ -1,6 +1,6 @@
 <h1 align="center">I'm Petrus</h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petrushimself&label=Profile%20views&color=0e75b6&style=flat" alt="petrushimself" /> </p>
 
