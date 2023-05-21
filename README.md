@@ -7,8 +7,8 @@
 - 🌱 I’m currently studying **ALX FULL-STACK SOFTWARE ENGINEERING**
 
 
-[![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetrusHimself&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PetrusHimself&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PetrusHimself&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PetrusHimself&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PetrusHimself&theme=merko&utcOffset=8)
