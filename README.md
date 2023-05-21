@@ -6,18 +6,9 @@
 
 - 🌱 I’m currently studying **ALX FULL-STACK SOFTWARE ENGINEERING**
 
-- 📫 How to reach me **tlhomedipetrus@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+[![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/PetrusHimself/PetrusHimself/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<p align="left">
-
-<a href="https://twitter.com/petrushimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="petrushimself" height="30" width="40" /></a>
-
-<a href="https://fb.com/petrushimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="petrushimself" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/petrushimself" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="petrushimself" height="30" width="40" /></a>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=petrushimself&show_icons=true&locale=en" alt="petrushimself" /></p>
 
