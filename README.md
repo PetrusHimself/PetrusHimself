@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=petrushimself&label=Profile%20views&color=0e75b6&style=flat" alt="petrushimself" /> </p>
 
-- 🌱 I’m currently studying **ALX FULL-STACK SOFTWARE ENGINEERING & CISCO CYBERSECURITY**
+- 🌱 I’m currently studying **ALX SOFTWARE ENGINEERING & CISCO CYBERSECURITY**
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetrusHimself&theme=merko)
