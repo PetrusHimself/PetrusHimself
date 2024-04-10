@@ -2,9 +2,8 @@
 
 <h3 align="center">Software Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petrushimself&label=Profile%20views&color=0e75b6&style=flat" alt="petrushimself" /> </p>
 
-- 🌱 I’m currently studying **ALX SOFTWARE ENGINEERING COHORT19**
+- 🌱 I’m currently studying **SOFTWARE ENGINEER**
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PetrusHimself&theme=merko)
