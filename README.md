@@ -2,14 +2,7 @@
 # Hi, I'm Petrus! 👋
 
 
-## 🚀 About Me
-I'm a Sanlam Financial Advisor, I hold a Wealth Management NQF L5 and I am authorized to sell the following: 
-* Long-Term Insurance subcategory A
-* Long-Term Insurance subcategory B1
-* Long-term Insurance subcategory B2-A 
-* Long-term Insurance subcategory B1-A 
-
-I'm also a Software Engineer with the following skills and knowledge: 
+I'm a Software Engineer with the following skills and knowledge: 
 
 *   **Programming Languages**: Proficient in C, Python, JavaScript, and TypeScript.
 *   **Frameworks & Libraries**: Experience with Python web frameworks, Node.js, and GraphQL APIs.
@@ -20,11 +13,6 @@ I'm also a Software Engineer with the following skills and knowledge:
 *   **Security**: Understanding of SSL certificates, SSH, and user authentication methods.
 *   **DevOps**: Competent in server monitoring, code deployment, and postmortem analysis.
 
-I'm alsoa Microsoft Power Platform Developer with proficiency in:  
-* Power Apps
-* Power BI
-* Power Automate 
-* Power Pages
 
 
 
