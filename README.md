@@ -2,9 +2,6 @@
 **Hi there, I'm Petrus Tlhomedi 👋**
 ====================================
 
-  
-
-  
 
 **About Me**
 ------------
@@ -16,6 +13,8 @@ I am a passionate and driven software engineering student currently completing m
 *   Advanced Back-End Engineering Techniques
 *   Project Management
 *   System Design and Architecture
+*   Advanced Algorithms
+*   Microsoft Power Platform
 
 ### **💼 Skills**
 
@@ -26,15 +25,15 @@ I am a passionate and driven software engineering student currently completing m
 
 ### **👨‍💻 Projects**
 
-*   **[Project 1 Name](https://github.com/PetrusHimself/project1):** A brief description of what the project does and the technologies used.
-*   **[Project 2 Name](https://github.com/PetrusHimself/project2):** A brief description of what the project does and the technologies used.
-*   **[Project 3 Name](https://github.com/PetrusHimself/project3):** A brief description of what the project does and the technologies used.
+*   **[Printf Function](https://github.com/PetrusHimself/printf):** The printf function project involves creating a custom implementation of the standard C library function printf. This function is used to print formatted output to the standard output (usually the terminal). The project requires handling various format specifiers (such as `%d, %s, %c, %x`), managing variable arguments using the va_list type, and ensuring the correct formatting and printing of data types like integers, strings, and characters.
+*   **[Simple Shell](https://github.com/PetrusHimself/simple_shell):** The Simple Shell project is an implementation of a basic command-line interpreter (shell) in C. It mimics the behavior of a Unix shell, allowing users to input and execute commands. The shell can execute built-in commands like cd, handle command arguments, and manage processes, including forking and executing external programs. The project typically includes features such as handling different types of input, managing environments, and implementing simple error handling.
+*   **[AirBnB Clone](https://github.com/PetrusHimself/AirBnB_clone_v3):** The AirBnB Clone project is a comprehensive full-stack web development project designed to replicate the core functionalities of the AirBnB platform. The project involves building a complete web application that allows users to list properties, search for available rentals, and make reservations. It covers both backend and frontend development, including setting up a database, creating APIs, and developing user interfaces. The project typically includes implementing user authentication, managing data models for listings and users, and deploying the application.
 
 
 ### **🔗 Connect with Me**
 
 *   **LinkedIn:** [Petrus Tlhomedi](https://www.linkedin.com/in/petrus-tlhomedi/)
-*   **Twitter:** [@yourtwitterhandle](https://twitter.com/PetrusHimself)
+*   **Twitter:** [@petrushimself](https://twitter.com/PetrusHimself)
 
 ### **🎯 Goals**
 
