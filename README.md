@@ -1,7 +1,7 @@
 
 **Hi there, I'm Petrus Tlhomedi 👋**
 ====================================
-
+(https://github.com/PetrusHimself/PetrusHimself/blob/main/LEARN%20HOW%20TO%20LEARN.mp4)
 
 **About Me**
 ------------
