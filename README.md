@@ -10,7 +10,7 @@ I am a passionate and driven software engineering student currently completing m
 
 ### **🌱 Currently Learning**
 
-*   Advanced Back-End Engineering Techniques
+*   Back-End Engineering Techniques
 *   Project Management
 *   System Design and Architecture
 *   Advanced Algorithms
