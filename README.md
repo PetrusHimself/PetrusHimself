@@ -15,7 +15,7 @@ I am a passionate and driven software engineering student currently completing m
 *   System Design and Architecture
 *   Advanced Algorithms
 *   Microsoft Power Platform
-*   Machine Learning
+*   Artificial Intelligence 
 
 ### **💼 Skills**
 
